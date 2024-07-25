@@ -16,7 +16,7 @@ tests_require = ['mxnet',
                  'Pillow',
                  'requests',
                  'tensorflow',
-                 'torch == 0.4.0']
+                 'torch == 2.2.0']
 
 docs_require = ['sphinx >= 1.4',
                 'sphinx_rtd_theme']
